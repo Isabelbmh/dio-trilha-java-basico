@@ -1,18 +1,8 @@
-## Getting Started
+# Projeto Controle de fluxo
+O objetivo deste projeto foi criar um sistema que devera receber dois parâmetros via terminal, com estes dois números obter a quantidade de interações e realizar a impressão no console dos números incrementados.
+Da mesma forma, se o primeiro parâmetro for MAIOR que o segundo parâmetro, lancar uma exceção customizada.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Como você acha que posso fazer melhor da próxima vez?
+Vamos nos conectar no Linkedin e me contar
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![linkedin](https://img.shields.io/badge/Linkedin-fff?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mariaisabelmeneses/)
